@@ -79,7 +79,7 @@ export default function Featured({product}) {
             </div>
           </Column>
           <Column>
-            <img src="https://dawid-next-ecommerce.s3.amazonaws.com/1679151719649.png" alt=""/>
+            <img src="https://neweracap.co.th/cdn/shop/files/14148200_59FIFTY_SS24_59FIFTY-PACK-EASTER_WALNUT-SOFT-YELLOW_3QL.png?v=1710995069&width=1080" alt=""/>
           </Column>
         </ColumnsWrapper>
       </Center>
